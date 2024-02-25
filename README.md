@@ -50,4 +50,4 @@ This project is open-source and available under the MIT License.
 ## 📫 Contact
 If you have any suggestions or want to get in touch, please email me at your.email@example.com.
 
-Project Link: [](https://github.com/yourusername/stone-paper-scissors)
+Project Link: [https://github.com/SURESH11222/stone.paper/blob/0ce555ca7b7bbae376a01f8c033a200246e81e63/game.js](https://github.com/SURESH11222/stone.paper/blob/0ce555ca7b7bbae376a01f8c033a200246e81e63/game.js)
