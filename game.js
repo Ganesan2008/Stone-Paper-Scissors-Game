@@ -1,4 +1,4 @@
-// Stone, paper, scissor Game create
+// Stone, paper, scissor Game 
 
 let UserName=confirm("Are you ready to play a game");
 
